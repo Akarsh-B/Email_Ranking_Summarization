@@ -21,9 +21,9 @@ With the advent of Internet, email communication has become a huge part of the i
 
 #Important info before executing the code:-
 
-1. Two notebooks have been submitted
+1. Two notebooks have been added
     
-    a) abalas26_project_pre.ipynb:- This is where the data is extracted. The initial dataset was considered which is around 1.0GB 
+    a) Data_Extraction.ipynb:- This is where the data is extracted. The initial dataset was considered which is around 1.0GB 
                                     I have not uploaded the data for this. The processing will also take around 10 minutes to execute on
                                     a normal computer without GPU. 
 
@@ -36,7 +36,7 @@ With the advent of Internet, email communication has become a huge part of the i
 
     b) To make this simple, after data extraction from the huge file, i have made an intermediate csv file emails_filtered.csv. Which contains the filtered data. This is used in the rest of the project. 
 
-    c) abalas26_project.ipynb: Uses the csv file generated in step (b), Please make sure to have the csv file and this notebook in the same folder.
+    c) Email_Summarization.ipynb: Uses the csv file generated in step (b), Please make sure to have the csv file and this notebook in the same folder.
     Run the notebook in a sequence.
 
 
