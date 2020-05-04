@@ -57,7 +57,7 @@ With the advent of Internet, email communication has become a huge part of the i
 
     Command to open a Jupyter Notebook: jupyter notebook
 
-5. Naviagte to the folder where the notebooks are placed, two notebooks are submitted, abalas26_project_pre.ipynb and abalas26_project.ipynb
+5. Naviagte to the folder where the notebooks are placed.
 
 6. Open the Notebook and Click Run All Cells. (If kernel is started and ends abruptly. Please click Restart and Run All). 
 
